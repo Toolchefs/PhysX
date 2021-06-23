@@ -12,5 +12,6 @@
   <CMakeParams>
     <cmakeParam name="CMAKE_INSTALL_PREFIX" value="install/vc15win64/PhysX" comment="Install path relative to PhysX SDK root" />
     <cmakeParam name="CMAKE_VS_WINDOWS_TARGET_PLATFORM_VERSION"  value="10.0.10586.0" comment="WinSDK version" />
+	<cmakeParam name="CMAKE_SYSTEM_VERSION"  value="10.0.10586.0" comment="WinSDK version" /> 
   </CMakeParams>
 </preset>
